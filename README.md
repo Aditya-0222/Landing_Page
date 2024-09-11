@@ -1,4 +1,6 @@
-## **2. 📄 Landing Page**
+## **🚀 Projects Overview**
+
+## **📄 Landing Page**
 The Landing Page is a simple, elegant webpage designed to capture attention and direct users to specific content. It highlights key information and features smooth transitions and animations.
 
 Live Page: [Visit here](https://aditya-0222.github.io/Landing_Page/) 
